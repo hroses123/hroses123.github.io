@@ -64,7 +64,6 @@ h2 {
     font-size: 2em;
     margin-top: 2em;
 }
-h6 {
-    margin: 0 0 0 2em;
-    text-align: center;
+main{
+    margin: 2em 0;
 }
